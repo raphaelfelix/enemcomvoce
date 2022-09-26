@@ -28,7 +28,7 @@ ul {
     --hue: 0;
     /* HSL color mode */
     --base-color: hsl(var(--hue) 100% 67%);
-    --base-color-second: hsl(260, 84%, 51%);
+    --base-color-second: hsl(260, 91%, 52%);
     --base-color-alt: hsl(var(--hue) 57% 53%);
     --title-color: hsl(var(--hue) 41% 10%);
     --text-color: hsl(0 0% 46%);
